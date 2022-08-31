@@ -59,20 +59,18 @@ export default function Connect() {
                 </div>
 
                 <div>
-
                 <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>HOW TO SEND A PRIVATE TRANSACTION ON ETHEREUM </Link>
                 </button>
                 </div>
-                <div>
 
+                <div>
                 <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>HOW TO CANCEL A TRANSACTION ON ETHEREUM </Link>
                 </button>
                 </div>
 
                 <div>
-
                 <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>HOW TO CHECK OWNER OF AN NFT</Link>
                 </button>
