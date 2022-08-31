@@ -10,17 +10,20 @@ export default function Connect() {
           
             <p className="text-base md:text-sm text-slate-500 my-5
             ">CLICK TO DM US FOR A SERVICE 👇</p>
-
-
+<div className='grid gap-y-5'>
+               <div >
                <button type='button' className=" bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>NFT MINTING SITE 
                 GENERATE 10K NFT COLLECTION AND SELL</Link>
                 </button>
+                </div>
 
-
+                <div>
                 <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>NFT WEBSITE</Link>
                 </button>
+                </div>
+
 
 
                 <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all ">
@@ -76,7 +79,7 @@ export default function Connect() {
                 <Link href={`https://t.me/metavass`}>WEB3 CONSULTATION </Link>
                 </button>
 
-
+</div>
         </div>
       </div>
     </>
