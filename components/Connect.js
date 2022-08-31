@@ -13,10 +13,10 @@ export default function Connect() {
             ">CLICK TO DM US FOR A SERVICE 👇</p>
 
 
-              <div className='grid gap-y-5'>
+              <div className='grid gap-y-8'>
 
                <div>
-               <button type='button' className=" bg-black-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-md shadow-blue-100 active:scale-90 hover:translate-y-2 transition-all">
+               <button type='button' className=" bg-black-600 px-7 py-2.5 text-lg md:text-sm rounded-md shadow-md shadow-blue-100 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>NFT MINTING SITE 
                 GENERATE 10K NFT COLLECTION AND SELL</Link>
                 </button>
