@@ -16,14 +16,14 @@ export default function Connect() {
               <div className='grid gap-y-5'>
 
                <div>
-               <button type='button' className=" bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
+               <button type='button' className=" bg-black-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>NFT MINTING SITE 
                 GENERATE 10K NFT COLLECTION AND SELL</Link>
                 </button>
                 </div>
 
                 <div>
-                <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
+                <button type='button' className="bg-black-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>NFT WEBSITE</Link>
                 </button>
                 </div>
@@ -31,21 +31,21 @@ export default function Connect() {
 
                 <div>
 
-                <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all ">
+                <button type='button' className="bg-black-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all ">
                 <Link href={`https://t.me/metavass`}>NFT MARKET PLACE LIKE OPENSEA</Link>
                 </button>
                 </div>
 
                 <div>
 
-                <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
+                <button type='button' className="bg-black-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>NFT SMART CONTRACT</Link>
                 </button>
                 </div>
 
 
                 <div>
-                <button type='button' className="bg-blue-600 px-7
+                <button type='button' className="bg-black-600 px-7
                  py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>CRYPTO COIN DEVELOPMENT </Link>
                 </button>
@@ -53,31 +53,31 @@ export default function Connect() {
 
 
                 <div>
-                <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
+                <button type='button' className="bg-black-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>HOW TO FILTER SPAM NFTS </Link>
                 </button>
                 </div>
 
                 <div>
-                <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
+                <button type='button' className="bg-black-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>HOW TO SEND A PRIVATE TRANSACTION ON ETHEREUM </Link>
                 </button>
                 </div>
 
                 <div>
-                <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
+                <button type='button' className="bg-black-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>HOW TO CANCEL A TRANSACTION ON ETHEREUM </Link>
                 </button>
                 </div>
 
                 <div>
-                <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
+                <button type='button' className="bg-black-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>HOW TO CHECK OWNER OF AN NFT</Link>
                 </button>
                 </div>
 
                 <div>
-                <button type='button' className="bg-blue-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
+                <button type='button' className="bg-black-600 px-7 py-1.5 text-lg md:text-sm rounded-md shadow-lg shadow-blue-600 active:scale-90 hover:translate-y-2 transition-all">
                 <Link href={`https://t.me/metavass`}>HOW TO GET ALL NFTS OWNED BY AN ADDRESS </Link>
                 </button>
                 </div>
