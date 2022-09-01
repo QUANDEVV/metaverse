@@ -5,7 +5,7 @@ export default function Connect() {
   return (
     <>
 
-      <div className="flex items-center justify-center h-[130vh] w-10/12 m-auto lg:w-11/12">
+      <div className="flex items-center justify-center h-[150vh] w-10/12 m-auto lg:w-11/12">
         <div className="grid items-center justify-items-center text-center max-w-3xl">
             <h1 className="">HELPING COMPANIES SUCCEED IN WEB3 WORLD</h1>
           
